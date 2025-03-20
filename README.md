@@ -4,6 +4,22 @@ This is a repository of resources and some light commentary to help you stay on 
 
 Do you work for wages or salary? Are you unemployed? Are you disabled? Total assets below $1 billion dollars? Then you are in the same class as everyone else reading this, and subject to the same existential threat, you may just not be feeling the effects yet. That is by design. The more finely they divide us, the harder it is for us to do anything.
 
+## Why Should I Care?
+
+Read this: <https://press.uchicago.edu/Misc/Chicago/511928.htm>
+
+## Table of Contents
+
+- [About This Repository](#about-this-repository)
+- [Background](#background)
+- [News Sources](#news)
+- [Organizing with Others](#organizing)
+- [What Can I Do?](#what-can-i-do)
+- [Miscellaneous Tools Clever People Might Find Useful](#miscellaneous-tools-clever-people-might-find-useful)
+- [Places to Donate](#donations)
+- [Boycotts](#who-should-i-boycott)
+- [Alternatives to Billionaire-owned Products and Services](#alternatives)
+
 ## About This Repository
 
 This repository is generally in support of those living in the USA. Are you outside the US? Your future is at risk from what is happening here. The economy is global. The USA's military reach is global. Fascism and extreme right-wing views are becoming more popular everywhere. You can support yourselves, and us, by divesting from the USA: <https://robertreich.substack.com/p/how-our-global-friends-can-help>
@@ -22,7 +38,8 @@ As someone with mounting long-covid symptoms, this is my way of fighting back.
 - The Alt-Right Playbook: <https://www.youtube.com/watch?v=4xGawJIseNY>
 - Bad Faith: <https://en.wikipedia.org/wiki/Bad_faith>
 - The Paradox of Tolerance: <https://en.wikipedia.org/wiki/Paradox_of_tolerance>
-  - The paradox is resolved by incorporating tolerance into the social contract. People who are anti-tolerance are excluded 
+  - The paradox is resolved by incorporating tolerance into the social contract. People who are anti-tolerance are excluded
+- The German Experience between 1933 and 1945: <https://press.uchicago.edu/Misc/Chicago/511928.htm>
 
 ## News
 
@@ -60,8 +77,12 @@ I recommend reading Robert Reich's list of things you can do to resist: <https:/
 - Yet another list of things: <https://www.doomsayer.me/resources/>
 - Join affinity groups and rallies: <https://redwineblue.controlshift.app/>
 - Build the resistance: <https://www.buildtheresistance.org/>
+- Find events, petitions, and volunteer opportunities: <https://www.mobilize.us/>
+- 198 Methods of Nonviolent Action: <https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf>
+- More Nonviolent Action: <https://www.nonviolent-conflict.org/>
+- General Strike, sign your card and commit! <https://generalstrikeus.com/>
 
-## Miscellaneous Tools that Clever People Might Find Useful
+## Miscellaneous Tools Clever People Might Find Useful
 
 - Want to review or test junk mail subscriptions? <https://mailbait.info/run>
 - Want to send emails anonymously? <https://anonymousemail.me/>
