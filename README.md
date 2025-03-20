@@ -1,4 +1,4 @@
-# Staying-on-top-of-2025
+# Staying On Top of 2025
 
 This is a repository of resources and some light commentary to help you stay on top of 2025 and beyond. Resist autocracy. Resist authoritarianism. Resist despotism. Resist fascism. Resist bigotry. Resist technofeudalism.
 
