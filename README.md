@@ -67,6 +67,8 @@ As someone with mounting long-covid symptoms, this is my way of fighting back.
 - Protesting:
   - FiftyFiftyOne (50501): <https://www.fiftyfifty.one/>
   - Tesla Takedown: <https://takedowntesla.com/>
+- Was the 2024 Election Legitimate?:
+  - Election Truth Alliance: <https://electiontruthalliance.org/>
 
 ## What Can I Do?
 
@@ -81,6 +83,10 @@ I recommend reading Robert Reich's list of things you can do to resist: <https:/
 - 198 Methods of Nonviolent Action: <https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf>
 - More Nonviolent Action: <https://www.nonviolent-conflict.org/>
 - General Strike, sign your card and commit! <https://generalstrikeus.com/>
+- Contact your representatives:
+  - 5 Calls, gives you a script you can read over the phone: <https://5calls.org/>
+  - FaxZero, sends faxes to your reps: <https://faxzero.com/fax_congress.php>
+  - ResistBot, contact multiple reps at once using a chat interface: <https://resist.bot/>
 
 ## Miscellaneous Tools Clever People Might Find Useful
 
