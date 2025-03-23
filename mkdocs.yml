@@ -1,0 +1,53 @@
+site_name: Staying Alive in 2025
+repo_url: https://github.com/lux-u-tenebris/staying-alive-in-2025
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  search_index_only: true
+  custom_dir: theme
+  language: en
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - content.code.copy
+# favicon: images/favicon.png
+# logo: images/logo.png
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.keys
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - table-reader:
+      data_path: docs
+  - git-revision-date-localized:
+      type: date
+      strict: false
+  - glightbox
+  - redirects:
+      redirect_maps:
+
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+    absolute_links: warn
+  links:
+    not_found: warn
+    anchors: warn
+    absolute_links: warn
+    unrecognized_links: warn
+
+nav:
+  - Home: index.md
